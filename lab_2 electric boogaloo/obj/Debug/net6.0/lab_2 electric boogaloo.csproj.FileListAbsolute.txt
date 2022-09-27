@@ -1,0 +1,15 @@
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\bin\Debug\net6.0\lab_2 electric boogaloo.exe
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\bin\Debug\net6.0\lab_2 electric boogaloo.deps.json
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\bin\Debug\net6.0\lab_2 electric boogaloo.runtimeconfig.json
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\bin\Debug\net6.0\lab_2 electric boogaloo.dll
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\bin\Debug\net6.0\lab_2 electric boogaloo.pdb
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\lab_2 electric boogaloo.csproj.AssemblyReference.cache
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\lab_2 electric boogaloo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\lab_2 electric boogaloo.AssemblyInfoInputs.cache
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\lab_2 electric boogaloo.AssemblyInfo.cs
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\lab_2 electric boogaloo.csproj.CoreCompileInputs.cache
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\lab_2 electric boogaloo.dll
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\refint\lab_2 electric boogaloo.dll
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\lab_2 electric boogaloo.pdb
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\lab_2 electric boogaloo.genruntimeconfig.cache
+C:\Users\Somber\source\repos\Gfuel\lab_2 electric boogaloo\lab_2 electric boogaloo\obj\Debug\net6.0\ref\lab_2 electric boogaloo.dll
